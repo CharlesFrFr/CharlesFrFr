@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @CharlesFrFr im 16
+- 👀 I’m interested in fortnite and biking ...
+- 🌱 I’m currently learning modding in ue4 ...
+- 📫 How to reach me charlesfrfr on discord ...
+
+<!---
+CharlesFrFr/CharlesFrFr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
