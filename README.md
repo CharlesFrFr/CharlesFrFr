@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @CharlesFrFr im 17
-- 👀 I’m interested in fortnite and biking ...
-- 🌱 I’m currently learning java in cs ...
-- 📫 How to reach me charlesfrfr on discord ...
-
-<!---
-CharlesFrFr/CharlesFrFr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1188896845557141505?theme=light&bg=809ecf&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=appearing%20offline!)](https://discord.com/users/1188896845557141505)
